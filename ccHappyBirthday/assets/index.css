@@ -5662,6 +5662,9 @@ p {
   height: 100%;
 }
 .envelop__envelop___1VFry {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
   width: 6.93333rem;
   height: 4.26667rem;
   border: 0.04rem solid pink;
@@ -5692,6 +5695,18 @@ p {
   position: absolute;
   bottom: -0.01333rem;
   left: -0.05333rem;
+}
+.envelop__my-avatar___2GxV8 {
+  transform: rotateY(180deg);
+  width: 1.2rem;
+  height: 1.2rem;
+  margin-right: 0.8rem;
+}
+.envelop__her-avatar___2R3VA {
+  transform: rotateY(180deg);
+  width: 1.2rem;
+  height: 1.2rem;
+  margin-left: 0.8rem;
 }
 @keyframes envelop__pound___lEbTg {
   to {
@@ -5916,47 +5931,47 @@ p {
 
 @keyframes fireworks__shake___1oIwM {
   0% {
-    clip: rect(0.54667rem, 133.32rem, 0.61333rem, 0); }
+    clip: rect(0.53333rem, 133.32rem, 1.12rem, 0); }
   5% {
-    clip: rect(1.06667rem, 133.32rem, 0.64rem, 0); }
+    clip: rect(1.32rem, 133.32rem, 0.57333rem, 0); }
   10% {
-    clip: rect(0.17333rem, 133.32rem, 0.72rem, 0); }
+    clip: rect(0.34667rem, 133.32rem, 0.34667rem, 0); }
   15% {
-    clip: rect(0.33333rem, 133.32rem, 1.22667rem, 0); }
+    clip: rect(0.86667rem, 133.32rem, 0.05333rem, 0); }
   20% {
-    clip: rect(0.49333rem, 133.32rem, 0.28rem, 0); }
+    clip: rect(1.29333rem, 133.32rem, 0.62667rem, 0); }
   25% {
-    clip: rect(0.92rem, 133.32rem, 0.02667rem, 0); }
+    clip: rect(0.65333rem, 133.32rem, 0.62667rem, 0); }
   30% {
-    clip: rect(0.28rem, 133.32rem, 0.06667rem, 0); }
+    clip: rect(0.82667rem, 133.32rem, 0.22667rem, 0); }
   35% {
-    clip: rect(0.76rem, 133.32rem, 1.17333rem, 0); }
+    clip: rect(0.08rem, 133.32rem, 0.04rem, 0); }
   40% {
-    clip: rect(1.10667rem, 133.32rem, 1rem, 0); }
+    clip: rect(0.36rem, 133.32rem, 0.2rem, 0); }
   45% {
-    clip: rect(0.25333rem, 133.32rem, 0.30667rem, 0); }
+    clip: rect(1.33333rem, 133.32rem, 1.24rem, 0); }
   50% {
-    clip: rect(0.12rem, 133.32rem, 0.24rem, 0); }
+    clip: rect(0.68rem, 133.32rem, 0.29333rem, 0); }
   55% {
-    clip: rect(1.02667rem, 133.32rem, 0.96rem, 0); }
+    clip: rect(0.41333rem, 133.32rem, 0.14667rem, 0); }
   60% {
-    clip: rect(0.6rem, 133.32rem, 0.89333rem, 0); }
+    clip: rect(0.30667rem, 133.32rem, 1.13333rem, 0); }
   65% {
-    clip: rect(1.30667rem, 133.32rem, 1.09333rem, 0); }
+    clip: rect(0.86667rem, 133.32rem, 1.01333rem, 0); }
   70% {
-    clip: rect(1.05333rem, 133.32rem, 0.58667rem, 0); }
+    clip: rect(1.24rem, 133.32rem, 0.10667rem, 0); }
   75% {
-    clip: rect(1.24rem, 133.32rem, 0.84rem, 0); }
+    clip: rect(0.86667rem, 133.32rem, 0.54667rem, 0); }
   80% {
-    clip: rect(0.92rem, 133.32rem, 1.16rem, 0); }
+    clip: rect(0.49333rem, 133.32rem, 0.48rem, 0); }
   85% {
-    clip: rect(0.34667rem, 133.32rem, 0.85333rem, 0); }
+    clip: rect(1.29333rem, 133.32rem, 1.2rem, 0); }
   90% {
-    clip: rect(0.98667rem, 133.32rem, 0.16rem, 0); }
+    clip: rect(0.13333rem, 133.32rem, 1.04rem, 0); }
   95% {
-    clip: rect(1.08rem, 133.32rem, 0.37333rem, 0); }
+    clip: rect(0.42667rem, 133.32rem, 0.06667rem, 0); }
   100% {
-    clip: rect(0.2rem, 133.32rem, 1.26667rem, 0); } }
+    clip: rect(0.06667rem, 133.32rem, 0.18667rem, 0); } }
 
 .test__container___2FC2l {
   font-size: 0.26667rem;
